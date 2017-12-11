@@ -25,6 +25,7 @@ Note: When you're done, submit a PR.
 #### Review  
 
 10. Why do people say "HTTP is stateless"?
+    * Because there is no information saved. Once the transaction is complete the connection is lost. 
 11. Describe a RESTful API.
     * A RESTful API has the 7 main restful endpoints that users are able to access by visiting those URL endpoints. 
 12. What are some main characteristics of a team following an agile workflow?
